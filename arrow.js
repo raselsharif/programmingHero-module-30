@@ -14,6 +14,6 @@ console.log(add1(15, 25));
 
 // arrow function
 
-const add3 = (a,b) => a+b;
-console.log(add3(10,10));
+const add3 = (a, b) => a + b;
+console.log(add3(10, 10));
 
